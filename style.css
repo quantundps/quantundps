@@ -8,6 +8,11 @@ label {
   font-weight: normal;
 }
 
+  .map{
+    width: 340px;
+    height: 340px;
+  }
+
 .Products .ttr_footer_bottom_footer_inner,
 .Products #ttr_footer_top_for_widgets {
   position: relative;
