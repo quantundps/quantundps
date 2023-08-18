@@ -50,5 +50,5 @@ if($_POST) {
    else { echo "Something went wrong. Please try again."; }
 
 }
-header("Location: login.php");
+header("Location: contact.html");
 ?>
